@@ -5,14 +5,15 @@ This mod enables the loader recipes, allowing them to be crafted in Factorio.
 ## Overview
 
 - Name: `craftable-loaders`
-- Version: `1.1.0`
+- Version: `1.1.1`
 - Title: Craftable Loaders
 - Author: QLA_off
 - Factorio version: `2.0`
 
 ## What it does
 
-The mod enables hidden loader recipes in the game by setting the following recipes to `enabled = false` and `hidden = false`:
+The mod enables hidden loader recipes in the game by setting the following recipes to `enabled = false` and `hidden = false`
+also set the actual item to `hidden = false` so you can place it from the "cursor ghost" panel :
 
 - `loader`
 - `fast-loader`
